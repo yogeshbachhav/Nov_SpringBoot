@@ -16,6 +16,7 @@ import com.jbk.springboot.service.ProductService;
 @RestController
 public class ProductController {
 
+//  Same ProductService as given below
 //	ProductService service = new ProductServiceIMPL();
 
 	@Autowired
